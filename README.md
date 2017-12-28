@@ -31,8 +31,9 @@ First construct a new opap client:
 c := opap.NewClient(nil)
 ```
 
-The client supports three methods of returning draws for each game. It can return a specific draw by number or by date as well as the latest draw.
-For example, to get the latest draw of the game Joker:
+The client supports three methods of returning draws for each game. It can
+return a specific draw by number or by date as well as the latest draw.  For
+example, to get the latest draw of the game Joker:
 
 ```go
 c := opap.NewClient(nil)

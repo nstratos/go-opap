@@ -1,5 +1,3 @@
-// Package opap provides a client for accessing the OPAP REST Services:
-// https://www.opap.gr/en/web-services
 package opap
 
 import (
